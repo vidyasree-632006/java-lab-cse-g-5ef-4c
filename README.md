@@ -31,7 +31,7 @@ System.out.println( "Area of Triangle: " + f2.area());
 }
   ```
 
-# OUTPUT : 
-![OUTPUT OF EXP 4C](4c.PNG)
+# OUTPUt : 
+![output of 4c](4c.png)
 
 
